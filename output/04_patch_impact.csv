@@ -1,0 +1,4 @@
+patch_id,note,active_before,active_week1,active_week2,change_week1_pct,change_week2_pct
+2.0,New map (Lotus),779,850,913,9.1,17.2
+3.0,Weapon rebalance,984,886,774,-10.0,-21.3
+4.0,Ranked reset,928,946,927,1.9,-0.1
