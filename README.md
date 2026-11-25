@@ -85,3 +85,4 @@ To view the dashboard, open `dashboard/player_retention_dashboard.pbix` in Power
 - The data is simulated, with churn drivers built in on purpose. Real player data would be noisier, and the causes of churn would be harder to separate.
 - The channel and headshot results are correlations. For example, referred players may stay longer because they were more interested to begin with, not because of the channel itself.
 - The patch comparison is a simple before/after with no control group. A real analysis would also account for seasonality and the number of new signups each week.
+- Retention in this simulation is much higher than real industry benchmarks (GameAnalytics' 2024 data puts median Day 7 retention for mobile games under 4%), partly because this project counts any player still active on or after day N.
